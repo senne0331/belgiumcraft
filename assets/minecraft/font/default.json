@@ -1,0 +1,95 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/clock.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/island.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/money.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/worldfile.png",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["🌍"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/logo1.png",
+            "ascent": 11,
+            "height": 40,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/owner.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/admin.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/leadstaff.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/staff.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/queenofcraft.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/kingofcraft.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/daily.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\ue30a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/baron.png",
+            "ascent": 11,
+            "height": 15,
+            "chars": ["\ue30b"]
+        }
+    ]
+}
